@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "fname": "Virat",
+      "lname": "Kohli",
+      "email": "vk@gmail.com",
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "pincode": "768956",
+      "id": "5"
+    },
+    {
+      "fname": "Amit",
+      "lname": "Kumar",
+      "email": "ak@gmail.com",
+      "state": "Maharastra",
+      "city": "Nagpur",
+      "pincode": "345004",
+      "id": "RR-Xo8B"
+    },
+    {
+      "fname": "Kailash",
+      "lname": "Choudhry",
+      "email": "kc230890@gmail.com",
+      "state": "Madhya Pradesh",
+      "city": "Pandhurna",
+      "pincode": "444434",
+      "id": "1Q9BZ6z"
+    },
+    {
+      "fname": "Raj",
+      "lname": "Varma",
+      "email": "rv@gmail.com",
+      "state": "UP",
+      "city": "Noida",
+      "pincode": "676767",
+      "id": "kq70gDk"
+    }
+  ]
+}
